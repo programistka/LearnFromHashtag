@@ -1,3 +1,3 @@
 # LearnFromHashtag
 
-http://programistka.net/daj-sie-poznac
+http://programistka.net/tag/daj-sie-poznac-2017/
